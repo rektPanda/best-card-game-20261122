@@ -1,8 +1,8 @@
 # BRANKAS — Deck Heist
 
-[![make.fun](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/c/best-card-game-20261122-1826)
-[![rank](https://make.fun/badge/best-card-game-20261122-1826/rektPanda/brankas-deck-heist/rank.svg)](https://make.fun/c/best-card-game-20261122-1826)
-[![reward](https://make.fun/badge/best-card-game-20261122-1826/rektPanda/brankas-deck-heist/reward.svg)](https://make.fun/c/best-card-game-20261122-1826)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/rektPanda/best-card-game-20261122/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/rektPanda/best-card-game-20261122/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 A complete, original deck-builder roguelike card game that plays offline in a
 desktop browser. Build a thief's deck, chain same-suit cards for the RANTAI
